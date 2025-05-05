@@ -1,4 +1,5 @@
 # SNAP-Gun-Violence
+[Click here to view the full notebook with choropleth maps on NBViewer](https://nbviewer.org/github/hmcooper1/SNAP-Gun-Violence-Predictor/blob/main/snap_gun_violence.ipynb)
 ## Research Question
 To what extent is food security, a basic need, through SNAP associated with mass shootings gun violence in the United States?
 ## Overview
