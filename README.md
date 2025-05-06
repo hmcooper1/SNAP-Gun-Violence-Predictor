@@ -8,7 +8,7 @@ This project explores the relationship between access to basic food benefits, pr
 - [Gun Violence Data](https://www.gunviolencearchive.org/reports/mass-shooting?year=2023): Mass shooting data (2017-2019) retrieved from  the Gun Violence Archive
 - [City and Census Data](https://data.census.gov/table/ACSST1Y2016.S1701?q=percent%20of%20population%20below%20the%20poverty%20line%20by%20county&g=040XX00US06): US Census Burea's data on poverty status and other demographic information by county
 - [SNAP Data](https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap): Statistics on the number of individuals receiving SNAP benefits
-## Machine Learning Models
+## Models
 - Regression models (predicting the proportion of mass shooting victims by county): Ordinary Least Squares, Decision Tree Regression, AdaBoost Regression
 - Classification models (predicting high or low gun violence by county): Logistic Regression, Decision Tree Classifier, AdaBoost Classifier
 ## Key Findings
